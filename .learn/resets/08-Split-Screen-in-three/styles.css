@@ -1,12 +1,6 @@
 body {
 	margin: 0;
 }
-div {
-	display: flex;
-}
-div > div {
-	width: 33.3%;
-}
 #sectionA {
 	background: blue;
 }

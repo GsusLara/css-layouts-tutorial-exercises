@@ -1,22 +1,4 @@
-.wrapper {
-	position: relative;
-	margin-left: auto;
-	margin-right: auto;
-	width: 800px;
-	height: 600px;
-}
-nav {
-	position: absolute;
-	left: 0;
-	width: 100px;
-	height: 400px;
-}
-section {
-	position: absolute;
-	right: 0;
-	width: 690px;
-	height: 400px;
-}
+/* your code here */
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
